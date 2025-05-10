@@ -15,7 +15,7 @@ This Python project analyzes global data job postings to uncover salary trends a
 - **Data Scientists** earn the most in the **Netherlands**.
 - The **United States** offers strong salaries across all three roles.
 
-![Job Posting Across Top 10 Countries](https://github.com/Sofiya-Banmala/Python-Project/blob/main/jobposting.png)
+![Alt Text](https://github.com/Sofiya-Banmala/Python-Project/blob/main/jobposting.png)
 
 ---
 
