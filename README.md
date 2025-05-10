@@ -17,9 +17,7 @@ This Python project analyzes global data job postings to uncover salary trends a
 
 ![Alt Text](https://github.com/Sofiya-Banmala/Python-Project/blob/main/jobposting.png)
 
----
-
-### 🧠 Top Skills by Role
+### Top Skills by Role
 
 | Role | Most In-Demand Skills |
 |------|------------------------|
@@ -27,21 +25,21 @@ This Python project analyzes global data job postings to uncover salary trends a
 | **Data Engineer** | SQL, Python, AWS, Azure, Spark |
 | **Data Scientist** | Python, SQL, R, SAS, AWS |
 
-![Top Skills in Data Roles](images/skills_by_role.png)
+![Alt Text](https://github.com/Sofiya-Banmala/Python-Project/blob/main/jobroles.png)
 
 ---
 
-### 💰 Skill Demand vs Salary
+### Skill Demand vs Salary
 
 - **Python** and **SQL** are highly in-demand and lead to higher salaries.
 - **Excel** is commonly listed but linked to lower median salaries.
 - Skill combinations like `['python', 'sql']` correlate with high income potential.
 
-![Skill Demand vs Salary](images/skill_vs_salary.png)
+![Alt Text](https://github.com/Sofiya-Banmala/Python-Project/blob/main/top10skills.png)
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
