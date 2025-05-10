@@ -27,8 +27,6 @@ This Python project analyzes global data job postings to uncover salary trends a
 
 ![Alt Text](https://github.com/Sofiya-Banmala/Python-Project/blob/main/jobroles.png)
 
----
-
 ### Skill Demand vs Salary
 
 - **Python** and **SQL** are highly in-demand and lead to higher salaries.
@@ -36,12 +34,3 @@ This Python project analyzes global data job postings to uncover salary trends a
 - Skill combinations like `['python', 'sql']` correlate with high income potential.
 
 ![Alt Text](https://github.com/Sofiya-Banmala/Python-Project/blob/main/top10skills.png)
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-pip install pandas matplotlib datasets
