@@ -1,25 +1,21 @@
 This Python project analyzes global data job postings to uncover salary trends and key skill requirements across roles such as **Data Analyst**, **Data Engineer**, and **Data Scientist**. The dataset is sourced from [HuggingFace Datasets](https://huggingface.co/datasets/lukebarousse/data_jobs).
 
----
-
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
 - pandas
 - matplotlib
 - datasets (from HuggingFace)
 
----
-
 ## 💡 Key Insights
 
-### 🌍 Salary by Country and Role
+### Salary by Country and Role
 
 - **Data Engineers** in **India** and **Germany** enjoy some of the highest median salaries.
 - **Data Scientists** earn the most in the **Netherlands**.
 - The **United States** offers strong salaries across all three roles.
 
-![Job Posting Across Top 10 Countries](images/salaries_by_country.png)
+![Job Posting Across Top 10 Countries](https://github.com/Sofiya-Banmala/Python-Project/blob/main/jobposting.png)
 
 ---
 
